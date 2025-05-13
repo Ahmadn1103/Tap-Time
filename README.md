@@ -1,4 +1,6 @@
-
+![Image](https://github.com/user-attachments/assets/cb8e309d-22f8-4a34-896d-c3b69e5aa6a3)
+![Image](https://github.com/user-attachments/assets/568432de-2a7a-440d-bda7-686d41b55aad)
+![Image](https://github.com/user-attachments/assets/03eed0de-4084-473c-9da4-492b80af7048)
 
 TapTime is an automated clock-in/out management system built to streamline employee attendance tracking with real-time Google Sheets integration and a cross-platform mobile app.
 
